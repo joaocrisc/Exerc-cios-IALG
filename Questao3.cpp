@@ -115,6 +115,6 @@ if ( vetor){
     cout<< endl;
 }
 
-
+    delete [] vetor;
     return 0;
 }
