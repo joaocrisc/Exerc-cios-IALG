@@ -11,8 +11,7 @@ int m2 (int* vetor , int TAM ){
 
     for( int i=0 ; i < TAM ; i++){
        
-       You need to configure your C++ includePath so your editor/compiler can locate the standard library headers like "iostream".
-       
+      
        
     for( int s=0 ; s < b ; s++){
             if ( vetor[i] == B[s])
